@@ -275,11 +275,6 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 
 <h3 align="center"> NON-MD PLUGINS <h1 l>
-
-<div align="center">
-<details>
-    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
-
 <a href="https://github.com/mask-sir/LYFE-PLUGINLISTS"><img src="https://img.shields.io/badge/TOTAL%20NON%20MD%20PLUGINS%20%3D-51-blue">
 _________________________________________________
 <h3 align="center"> EDITOR PLUGINS 👽🌈 <h1 />
